@@ -1,0 +1,1 @@
+/bin/x86_64-linux-gnu-g++-9  -g  -rdynamic CMakeFiles/Q_Q-Server.dir/databaseQ_Q.o CMakeFiles/Q_Q-Server.dir/listQ_Q.o CMakeFiles/Q_Q-Server.dir/main.o CMakeFiles/Q_Q-Server.dir/serverQ_Q.o CMakeFiles/Q_Q-Server.dir/threadpool.o  -o Q_Q-Server  -levent -ljsoncpp -lpthread -lmysqlclient 

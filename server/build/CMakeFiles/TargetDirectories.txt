@@ -1,0 +1,3 @@
+/home/lsh/桌面/Q_Q-Server/build/CMakeFiles/rebuild_cache.dir
+/home/lsh/桌面/Q_Q-Server/build/CMakeFiles/edit_cache.dir
+/home/lsh/桌面/Q_Q-Server/build/CMakeFiles/Q_Q-Server.dir

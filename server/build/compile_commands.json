@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/lsh/桌面/Q_Q-Server/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/home/lsh/桌面/Q_Q-Server/.  -g   -o CMakeFiles/Q_Q-Server.dir/databaseQ_Q.o -c /home/lsh/桌面/Q_Q-Server/databaseQ_Q.cpp",
+  "file": "/home/lsh/桌面/Q_Q-Server/databaseQ_Q.cpp"
+},
+{
+  "directory": "/home/lsh/桌面/Q_Q-Server/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/home/lsh/桌面/Q_Q-Server/.  -g   -o CMakeFiles/Q_Q-Server.dir/listQ_Q.o -c /home/lsh/桌面/Q_Q-Server/listQ_Q.cpp",
+  "file": "/home/lsh/桌面/Q_Q-Server/listQ_Q.cpp"
+},
+{
+  "directory": "/home/lsh/桌面/Q_Q-Server/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/home/lsh/桌面/Q_Q-Server/.  -g   -o CMakeFiles/Q_Q-Server.dir/main.o -c /home/lsh/桌面/Q_Q-Server/main.cpp",
+  "file": "/home/lsh/桌面/Q_Q-Server/main.cpp"
+},
+{
+  "directory": "/home/lsh/桌面/Q_Q-Server/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/home/lsh/桌面/Q_Q-Server/.  -g   -o CMakeFiles/Q_Q-Server.dir/serverQ_Q.o -c /home/lsh/桌面/Q_Q-Server/serverQ_Q.cpp",
+  "file": "/home/lsh/桌面/Q_Q-Server/serverQ_Q.cpp"
+},
+{
+  "directory": "/home/lsh/桌面/Q_Q-Server/build",
+  "command": "/bin/x86_64-linux-gnu-gcc-9  -I/home/lsh/桌面/Q_Q-Server/.  -g   -o CMakeFiles/Q_Q-Server.dir/threadpool.o   -c /home/lsh/桌面/Q_Q-Server/threadpool.c",
+  "file": "/home/lsh/桌面/Q_Q-Server/threadpool.c"
+}
+]

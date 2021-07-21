@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lsh/桌面/Q_Q-Server/databaseQ_Q.h
+mysql/mysql.h
+-
+iostream
+-
+stdio.h
+-
+string.h
+-
+
+/home/lsh/桌面/Q_Q-Server/listQ_Q.cpp
+listQ_Q.h
+/home/lsh/桌面/Q_Q-Server/listQ_Q.h
+
+/home/lsh/桌面/Q_Q-Server/listQ_Q.h
+event.h
+-
+list
+-
+databaseQ_Q.h
+/home/lsh/桌面/Q_Q-Server/databaseQ_Q.h
+

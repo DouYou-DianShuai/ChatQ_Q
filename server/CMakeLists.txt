@@ -1,0 +1,5 @@
+project(Q_Q-S)
+aux_source_directory(./ SRC_SUB)
+add_executable(Q_Q-Server ${SRC_SUB})
+include_directories(./)
+target_link_libraries(Q_Q-Server event jsoncpp pthread mysqlclient)
