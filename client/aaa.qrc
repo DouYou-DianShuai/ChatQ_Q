@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>a_1</file>
+        <file>a_2</file>
+        <file>a_3</file>
+        <file>a_4</file>
+        <file>a_5</file>
+        <file>a_6</file>
+    </qresource>
+    <qresource prefix="/">
+        <file alias="a_7">a_7</file>
+        <file alias="a_8">a_8</file>
+        <file alias="a_9">q_q/gaitubao_Fk6yut6fJ5l9BtuKbhzHW2EHCI12.jpg</file>
+        <file alias="加粗">q_q/bold.png</file>
+        <file alias="斜体">q_q/italic.png</file>
+        <file alias="下划线">q_q/under.png</file>
+        <file alias="aaa">q_q/aaa</file>
+    </qresource>
+</RCC>
