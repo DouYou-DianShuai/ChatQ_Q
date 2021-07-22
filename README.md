@@ -18,3 +18,36 @@
  * 最后由于对epoll的理解可能不太够地原因，总会产生一些小错误，一些细节很难覆盖的到。/*比如举个小例子，epoll采用边沿触发，然后使用非阻塞 io，这时调用 send 发送数据返回-1 时，就需要对全局变量 errno 的错误信 息进行处理，若是 EAGAIN 为缓冲区已满，这时就需要记录写入位置方便 epoll 对缓存区可写状态进行监测与通知后，高效稳定的 发送数据信息。*/
  * 因此服务框架就直接使用了libevent开源库封装好的epoll来快速编写，随后把精力更多的投入逻辑代码的实现。
  * 对于epoll地学习与练习，还有一些其他高性能优秀开源服务器框架源码的学习，即使工作了也不能懈怠，争取不断地提升自我。
+
+***如果打算简单运行一下本项目***
+先来看一下server的目录结构
+server/
+├── build
+│   ├── CMakeCache.txt
+│   ├── CMakeFiles
+│   │   ├── 3.16.3
+│   │   ├── cmake.check_cache
+│   │   ├── CMakeDirectoryInformation.cmake
+│   │   ├── CMakeOutput.log
+│   │   ├── CMakeTmp
+│   │   ├── Makefile2
+│   │   ├── Makefile.cmake
+│   │   ├── progress.marks
+│   │   ├── Q_Q-Server.dir
+│   │   └── TargetDirectories.txt
+│   ├── cmake_install.cmake
+│   ├── compile_commands.json
+│   └── Makefile
+├── CMakeLists.txt
+├── databaseQ_Q.cpp
+├── databaseQ_Q.h
+├── listQ_Q.cpp
+├── listQ_Q.h
+├── main.cpp
+├── serverQ_Q.cpp
+├── serverQ_Q.h
+├── threadpool.c
+└── threadpool.h
+不难看出，在Linux下打开项目后，进入server/build目录，执行make命令即可
+由于项目简单内容较少，直接自己 gcc/g++ 也无所谓
+
