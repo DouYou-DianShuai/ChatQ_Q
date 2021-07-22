@@ -20,7 +20,9 @@
  * 对于epoll地学习与练习，还有一些其他高性能优秀开源服务器框架源码的学习，即使工作了也不能懈怠，争取不断地提升自我。
 
 ***如果打算简单运行一下本项目***
+
 先来看一下server的目录结构
+```
 server/
 ├── build
 │   ├── CMakeCache.txt
@@ -48,6 +50,13 @@ server/
 ├── serverQ_Q.h
 ├── threadpool.c
 └── threadpool.h
-不难看出，在Linux下打开项目后，进入server/build目录，执行make命令即可
-由于项目简单内容较少，直接自己 gcc/g++ 也无所谓
+```
+1、不难看出，在Linux下打开项目后，进入server/build目录，执行make即可
 
+   由于项目简单内容较少，直接自己 gcc/g++ 也无可厚非
+
+2、mysql需准备名为 userName   和   groupChatName  的数据库
+
+3、运行第一步编译后生成的  Q_Q-Server
+****
+服务器到此就启动成功了
