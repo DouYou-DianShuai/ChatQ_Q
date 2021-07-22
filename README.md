@@ -62,3 +62,61 @@ server/
 Linux使用Qt打开我写的client工程源码，编译运行后，注册/登录不受影响即一切正常
 
 或使用我提供的windows、安卓环境的可执行程序来安装（自己复制源码到对应平台编译也可，Qt是跨平台的）
+
+
+***项目展示***
+* 服务器启动
+  
+![image](https://github.com/DouYou-DianShuai/ChatQ_Q/blob/main/picture/%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%90%AF%E5%8A%A8%E5%9B%BE.png)
+   
+****
+* 登陆窗口
+  
+![image](https://github.com/DouYou-DianShuai/ChatQ_Q/blob/main/picture/%E7%99%BB%E5%BD%95%E7%95%8C%E9%9D%A2.png)
+   
+`客户端启动失败的话，登录窗口是无法操作的，如下图:`
+
+![image](https://github.com/DouYou-DianShuai/ChatQ_Q/blob/main/picture/%E5%A6%82%E6%9E%9C%E6%B2%A1%E8%83%BD%E6%88%90%E5%8A%9F%E8%BF%9E%E6%8E%A5%E6%9C%8D%E5%8A%A1%E5%99%A8%EF%BC%8C%E6%88%96%E6%9C%8D%E5%8A%A1%E5%99%A8%E4%B8%8D%E5%9C%A8%E7%BA%BF%EF%BC%8C%E5%88%99%E6%98%BE%E7%A4%BA%E4%BB%A5%E4%B8%8B%E4%B8%8D%E5%8F%AF%E6%93%8D%E4%BD%9C%E7%95%8C%E9%9D%A2%EF%BC%8C%E5%8F%AF%E4%BB%A5%E6%A3%80%E6%9F%A5%E4%B8%8Bip%E5%9C%B0%E5%9D%80.png)
+****
+* 注册窗口
+
+![image](https://github.com/DouYou-DianShuai/ChatQ_Q/blob/main/picture/%E6%B3%A8%E5%86%8C%E7%95%8C%E9%9D%A2.png)
+****
+* 聊天室主窗口
+  
+![image](https://github.com/DouYou-DianShuai/ChatQ_Q/blob/main/picture/%E8%81%8A%E5%A4%A9%E5%AE%A4%E7%95%8C%E9%9D%A2.png)
+   
+****
+* 好友聊天窗口
+  
+![image](https://github.com/DouYou-DianShuai/ChatQ_Q/blob/main/picture/%E5%A5%BD%E5%8F%8B%E8%81%8A%E5%A4%A9%E7%95%8C%E9%9D%A2.png)
+   
+****
+* 群聊窗口
+  
+![image](https://github.com/DouYou-DianShuai/ChatQ_Q/blob/main/picture/%E7%BE%A4%E8%81%8A%E7%95%8C%E9%9D%A2.png)
+   
+****
+* 分别是添加好友 、创建群聊 、申请加群窗口
+  
+![image](https://github.com/DouYou-DianShuai/ChatQ_Q/blob/main/picture/%E5%88%86%E5%88%AB%E6%98%AF%E6%B7%BB%E5%8A%A0%E5%A5%BD%E5%8F%8B%E3%80%81%E5%88%9B%E5%BB%BA%E7%BE%A4%E8%81%8A%E3%80%81%E7%94%B3%E8%AF%B7%E5%8A%A0%E7%BE%A4%E7%9A%84%E7%AA%97%E5%8F%A3.png)
+   
+****
+* 发送文件窗口
+  
+![image](https://github.com/DouYou-DianShuai/ChatQ_Q/blob/main/picture/%E5%8F%91%E9%80%81%E6%96%87%E4%BB%B6.png)
+   
+****
+
+
+
+
+
+
+
+
+
+
+
+
+
