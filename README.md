@@ -51,10 +51,11 @@ server/
 ```
 1、不难看出，在Linux下打开项目后，进入server/build目录，执行make即可
 
-   由于项目简单内容较少，直接自己 gcc/g++ 也无可厚非
+       由于项目简单内容较少，直接自己 gcc/g++ 也无可厚非
 
 2、mysql需准备名为 userName   和   groupChatName  的数据库
 
 3、运行第一步编译后生成的  Q_Q-Server
+
+   服务器到此就启动成功了
 ****
-服务器到此就启动成功了
