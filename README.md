@@ -49,7 +49,7 @@ server/
 ├── threadpool.c
 └── threadpool.h
 ```
-1、不难看出，在Linux下打开项目后，进入server/build目录，执行make即可，执行的是用cmake生成的Makefile文件。
+1、不难看出，在Linux下打开项目后，进入server目录，执行cmake + 指定目录 即可， 然后进入所在目录输入make命令，执行生成的makefile文件。
 
        由于项目简单内容较少，直接自己 gcc/g++ 也无可厚非
 
