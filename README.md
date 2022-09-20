@@ -91,7 +91,7 @@ Linux使用Qt打开我写的client工程源码，编译运行后，注册/登录
 
 <!-- ![image](https://github.com/DouYou-DianShuai/ChatQ_Q/blob/main/picture/%E6%B3%A8%E5%86%8C%E7%95%8C%E9%9D%A2.png) -->
 
-![image](https://gitee.com/DouYou-DianShuai/ChatQ_Q/raw/main/picture/%E6%B3%A8%E5%86%8C%E7%95%8C%E9%9D%A2.png)
+<!-- ![image](https://gitee.com/DouYou-DianShuai/ChatQ_Q/raw/main/picture/%E6%B3%A8%E5%86%8C%E7%95%8C%E9%9D%A2.png) -->
 
 ****
 * 聊天室主窗口
